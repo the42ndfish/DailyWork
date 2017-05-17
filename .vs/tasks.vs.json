@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Staircase",
+      "appliesTo": "Solution1/Staircase.cs",
+      "type": "command"
+    }
+  ]
+}
